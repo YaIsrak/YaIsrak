@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://yaserisrak.vercel.app/](https://yaserisrak.vercel.app/)
 
-- 📝 I regularly write articles on [https://yaserisrak.vercel.app/blog](https://yaserisrak.vercel.app/blog)
-
 - 📫 How to reach me **yaserarafatisrak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
